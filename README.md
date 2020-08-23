@@ -15,7 +15,7 @@
         </video>
  
         <video width="320" height="240" controls>
-            <source src="https://drive.google.com/file/d/1n5rNmFZo-AhYtDyz4L-H0fVRoBdF6nyx/view?usp=sharing" type="video/mp4">
+            <source src="https://drive.google.com/file/d/1n5rNmFZo-AhYtDyz4L-H0fVRoBdF6nyx/view" type="video/mp4">
         </video>
     </p>
 
